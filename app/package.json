@@ -1,0 +1,12 @@
+{
+  "name": "versailles-dashboard",
+  "productName": "Versailles",
+  "description": "Quand le reste tombe en panne...",
+  "version": "0.1.0",
+  "author": "HowardStark",
+  "main": "background.js",
+  "dependencies": {
+    "fs-jetpack": "^0.7.0"
+  },
+  "packageNameTemplate": "{{name}}-v{{version}}-{{platform}}-{{arch}}"
+}
